@@ -8,11 +8,13 @@ Training a neural network with genetic algorithm to play flappy bird.
 
 ## First generations
 At the beggining, models do some wrong things so most of them die quickly.
+
 This is an example of the first generation:
+
 ![](first_generation.gif)
 
 ## Final Result
-Later, they get better in each generation so finally we get a model that plays even better than a real person:
+Later, they get better in each generation so finally we get a model that plays even better than a real person.
 ![](good_generation.gif)
 
 
