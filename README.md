@@ -12,17 +12,17 @@ Every neural network has 4 inputs:
 3. Distance to the top of the screen.
 4. Distance to the bottom of the screen.
 
-![](nn_inputs.png)
+![readme_files/](nn_inputs.png)
 
 ## First generations
 At the beggining, models do some wrong things so most of them die quickly.
 
-![](first_generation.gif)
+![readme_files/](first_generation.gif)
 
 ## Final Result
 Later, they get better in each generation so finally we get a model that plays even better than a real person.
 
-![](good_generation.gif)
+![readme_files/](good_generation.gif)
 
 
 #### References
