@@ -22,7 +22,7 @@ At the beggining, models do some wrong things so most of them die quickly.
 ## Final Result
 Later, they get better in each generation so finally we get a model that plays even better than a real person.
 
-![readme_files/](good_generation.gif)
+![](readme_files/good_generation.gif)
 
 
 #### References
