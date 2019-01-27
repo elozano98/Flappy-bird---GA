@@ -13,4 +13,6 @@ Training a neural network with genetic algorithm to play flappy bird.
 
 #### References
 - https://www.askforgametask.com/tutorial/machine-learning-algorithm-flappy-bird/
+
+
 *Eric Lozano*
