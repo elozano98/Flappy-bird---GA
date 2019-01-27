@@ -6,8 +6,8 @@ Training a neural network with genetic algorithm to play flappy bird.
 - Each generation is based on the models that had the best fitness in the previous generation.   
 - The mutation threshold is 2 %.
 
-### First generations
-![](generation_1.gif)
+### First generation
+![](first_generation.gif)
 ### Final Result
 
 
