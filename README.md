@@ -6,7 +6,7 @@ Training a neural network with genetic algorithm to play flappy bird.
 - Each generation is based on the models that had the best fitness in the previous generation.   
 - The mutation threshold is 2 %.
 
-Every neural network has 4 inputs:
+Each neural network has 4 inputs:
 1. Distance to the middle of the tunnel.
 2. Distance to the end of the tunnel.
 3. Distance to the top of the screen.
