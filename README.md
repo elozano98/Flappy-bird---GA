@@ -28,4 +28,4 @@ Later, they get better in each generation so finally we get a model that plays e
 #### References
 - https://www.askforgametask.com/tutorial/machine-learning-algorithm-flappy-bird/
 
-*Eric Lozano*
+*Eric Lozano Férriz*
