@@ -1,4 +1,4 @@
-# Flappy bird Genetic algorithm implementation
+# Genetic algorithm learns how to play Flappy Birdsimplementation
 Training a neural network with genetic algorithm to play flappy bird.
 
 ## Details of the genetic algorithm
